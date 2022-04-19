@@ -1,2 +1,2 @@
 # Backup.WindowsFormsApp
-Backup Application 2018
+Backup is a system utility for Windows and Linux, create by Ronei Costa Soares, that allows local backup operations.
